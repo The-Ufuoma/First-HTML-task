@@ -1,2 +1,34 @@
 # First-HTML-task
  First html task @start.ng
+<!DOCTYPE html>
+	<head>
+		<h1><b>First Web Page</b></h1>
+	</head>
+	<body>
+	<font size="4">
+		<header>
+			<p><div>Kindly do exactly what you see here as it would affect your score</div>
+			Whether it is your first webpage in life or not, use the heading above it won't bite..
+		</header>
+		<main>
+			<h2><b>H2 Heading</b></h2>
+			<p><div>As a best practice, your webpage should have just one</div></p>
+			element
+			<h3><b>h3 Heading</b></h3>
+			<p><div>This test is too simple to fail.</div>
+			It is is simply a test of how much you have been following the course.</p>
+			<p><div>Thanks.. Wait..</div>
+			You will have to upload this project to github .. Yea</p>
+			<h4><b>H4 Heading</b></h4>
+			<p>Use the file structure that will be shown here below</p>
+	</font>
+		</main>
+		<footer>
+			<style>div.a {text-indent: 20px;}</style>
+			<code>:::first_webpage:::
+				<dd><div class= "a">|</div><div class= "a">--------:::index.html:::</div></dd>
+				<dd><div class="a">|</div><div class= "a">--------:::style.css:::</div></dd>
+    <dd><div class= "a">|</div><div class= "a">--------:::script.js:::</div></dd></code>
+		</footer>
+	</body>
+</html>
